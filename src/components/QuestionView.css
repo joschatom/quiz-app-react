@@ -1,0 +1,10 @@
+
+.answers-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr [col-start]);
+  gap: 10px;
+}
+
+.answer-option:hover {
+  box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.1);
+}
