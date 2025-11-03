@@ -1,9 +1,9 @@
 # A minimal quiz app using **REACT** + **Typescript**.
 
 ## Descripion
-A simple app that ask the user question and counts highscore(saved locally), current score and ratio between correct and incorrect answers.
+A simple app that ask the user questions and counts highscore(saved locally), current score and ratio between correct and incorrect answers.
 
-This was part of an *exercise* at Autismuslink!
+This an *exercise* by me at Autismuslink!
 
 ## Running
 To run the app follow the standard procedure for `vite.js` apps, like say for a local *development* instance run:
